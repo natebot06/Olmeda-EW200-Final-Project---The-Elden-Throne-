@@ -27,4 +27,5 @@
 11. Fancy Fonts (+1) : *I use a fancy font for the boss name and winner screen*
 12. The Walls are Hard (+4) : *The player, projectiles, and boss cannot move through the walls or barricades*
 13. Muzak (+2) : *There is a bunch of music in my game*
+\
 Total points: 33
